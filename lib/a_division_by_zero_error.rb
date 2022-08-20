@@ -1,3 +1,3 @@
-42 / 6
+numerical = 42 / 6
 
-42 / 0
+puts numerical
